@@ -2,21 +2,21 @@
 main:
   - title: "Publications"
     url: /publications/
-    
+
   - title: "Portfolio"
     url: https://lighghteeloo.netlify.app/
-        
+
   - title: "Blog Posts"
     url: /year-archive/
-    
+
   - title: "CV"
     url: /cv/
 
-  - title: "AATalks"
-    url: /aatalks/
+  # - title: "Talks"
+  #   url: /talks/
 
-  - title: "AATeaching"
-    url: /aateaching/
-    
+  # - title: "Teaching"
+  #   url: /teaching/
+
   # - title: "Guide"
   #   url: /markdown/
