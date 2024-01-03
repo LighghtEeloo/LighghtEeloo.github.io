@@ -2,12 +2,6 @@
 main:
   - title: "Publications"
     url: /publications/
-
-  - title: "AATalks"
-    url: /aatalks/
-
-  - title: "AATeaching"
-    url: /aateaching/
     
   - title: "Portfolio"
     url: https://lighghteeloo.netlify.app/
@@ -17,6 +11,12 @@ main:
     
   - title: "CV"
     url: /cv/
+
+  - title: "AATalks"
+    url: /aatalks/
+
+  - title: "AATeaching"
+    url: /aateaching/
     
   # - title: "Guide"
   #   url: /markdown/
