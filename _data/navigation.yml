@@ -1,13 +1,13 @@
 # main links links
 main:
-  # - title: "Publications"
-  #   url: /publications/
+  - title: "Publications"
+    url: /publications/
 
-  # - title: "Talks"
-  #   url: /talks/    
+  - title: "AATalks"
+    url: /aatalks/
 
-  # - title: "Teaching"
-  #   url: /teaching/    
+  - title: "AATeaching"
+    url: /aateaching/
     
   - title: "Portfolio"
     url: https://lighghteeloo.netlify.app/
